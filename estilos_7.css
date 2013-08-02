@@ -23,6 +23,12 @@ body
 /*
 comentario de lo que sea
 */
+footer
+{
+	background: #434343;
+	color: #a7a7a7a;
+	padding: 1em 0;
+}
 header
 {
 	background: #434343;
@@ -149,6 +155,11 @@ nav #publicar_nav a
 {
 	color: #7A7A7A;
 	font-size: 0.9em;
+}
+#contenido .item .datos_item .guardar_item
+{
+	margin: 0 1em;
+	text-decoration: none;
 }
 #contenido .item .datos_item .guardar_item:after
 {
